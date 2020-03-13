@@ -1,4 +1,4 @@
-package lecture_2.lecture_3;
+package lecture_3;
 
 /**
  * Created by alpa on 3/5/20
